@@ -108,6 +108,9 @@ Then please transfer your .sif file to the Great Lakes. Please run the following
 
 3. Anything else please don't change it.
 
+## Reference
+Feel free to check the [instruction](https://github.com/Klemet/LANDIS-II-Apptainer?tab=readme-ov-file#%EF%B8%8F-creating-your-own-apptainer-file) that the Landis developer write
+
 
 
 
